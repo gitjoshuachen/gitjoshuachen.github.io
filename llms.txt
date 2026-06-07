@@ -1,0 +1,38 @@
+# Website Name
+Personal Site of Joshua Chen
+> Joshua Chen's Personal Site with About Me, Career, Project Samples, and Connect with Me Sections
+
+## Page Routes - Website paths that users can take to reach the different webpage sections
+- /about - About Me section has an Izakaya theme with fun facts about Joshua Chen
+- /journey - Career section has a Tavern theme with selected work experiences
+- /projects - Projects section has a Cyberpunk Cafe theme with sample projects
+- /connect - Connect with Me section has a Magical Manor theme with additional links for social media and music making links
+
+## Projects and Additional Links
+- [Product name 1](https://joshuachen.me/product-1): Short description of your product's main feature and benefit
+- [Product name 2](https://example.com/product-2): Short description of your product's main feature and benefit
+- [Product name 3](https://example.com/product-3): Short description of your product's main feature and benefit
+
+- [Home Page] (https://www.joshuachen.me) Home Page - Joshua Chen's Personal Site
+- [Resume] (https://www.joshuachen.me/resume) Joshua Chen's Resume
+- [About Me] (https://www.joshuachen.me/about) Fun Facts About Me
+- [Career] (https://www.joshuachen.me/journey) Career Work Experiences
+- [Sample Projects] (https://www.joshuachen.me/projects) Sample Projects
+- [Connect with Me] (https://www.joshuachen.me/connect) Connect with Me and Music Making Links
+- [App Concepts] (https://www.joshuachen.me/app-concepts) Links to App Concepts that can be helpful for personal use
+- [Hobby Storefront] (https://www.joshuachen.me/hobby-storefront) Hobby Storefront with products for technical and creative hobby enthusiasts
+- [AWS AI Practitioner Exam Practice] (https://www.joshuachen.me/aws-ai-practitioner-exam) AWS AI Practitioner Exam Practice with study materials and practice exam materials
+- [AWS Solutions Architect Professional Exam Practice] (https://joshuachen.me/aws-solutions-architect) AWS Solutions Architect Professional Exam Practice with study materials and practice exam materials
+- [Azure AZ900 Exam Practice] (https://joshuachen.me/azure-az900-exam) Azure AZ900 Exam Practice with study materials and practice exam materials
+- [Guitar Buddy] (https://joshuachen.me/guitar-buddy) Guitar Buddy with chord and scale practice tools
+- [Home Care] (https://www.joshuachen.me/home-care) Home Care with tasks, appliances, and calendar functionalities for local use
+- [HVAC Checklist] (https://www.joshuachen.me/hvac-checklist) Sample HVAC Checklist for R410A air conditioning systems
+- [Stickyboard] (https://www.joshuachen.me/stickyboard) Stickyboard with sticky note functionality
+- [Mixology] (https://www.joshuachen.me/mixology) Mixology with cocktail recipes for reference
+- [Taiwan TV] (https://www.joshuachen.me/taiwan-tv) Taiwan TV with curated Taiwanese TV channels from YouTube
+
+## Social Media and Music Making Links
+- [GitHub] (https://github.com/gitjoshuachen) Joshua Chen's GitHub profile
+- [LinkedIn] (https://linkedin.com/in/aboutjoshuachen) Joshua Chen's LinkedIn profile
+- [SoundCloud] (https://soundcloud.com/joshua-chen-music) Joshua Chen's SoundCloud profile
+- [BandLab] (https://www.bandlab.com/joshua_chen_music) Joshua Chen's BandLab profile
